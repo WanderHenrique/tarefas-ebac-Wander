@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author wande
+ *
+ */
+module PrimeiroProjetoJava {
+}
